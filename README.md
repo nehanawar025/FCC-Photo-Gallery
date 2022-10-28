@@ -1,3 +1,3 @@
 # FCC-Photo-Gallery
-<p>This project helps to understand the usage of <strong>CSS Flexbox</strong></p>
-<strong>[LIVE PREVIEW]()</strong>
+This project helps to understand the usage of <strong>CSS Flexbox</strong><br><br>
+[LIVE PREVIEW](https://nehanawar025.github.io/FCC-Photo-Gallery/)
